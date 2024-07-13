@@ -84,7 +84,7 @@ Only 2 achievements have had their name altered in all of GitHub's History. Thes
 
 
 
-## Logo Collections 😉 
+## Logo Collections 😉 of Tools:
 
  <p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank">
